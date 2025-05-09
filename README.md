@@ -1,6 +1,5 @@
 # bharat_nxt_assignment
-markdown
-CopyEdit
+
 # Flutter Article App
 A Flutter app that fetches and displays a list of articles from a public
 API.
@@ -18,14 +17,14 @@ flutter pub get
 3. Run the app:
 flutter run
 ## Tech Stack
-- Flutter SDK: [Version]
-- State Management: [Provider/Riverpod/etc.]
-- HTTP Client: [http/dio]
-- Persistence: [shared_preferences/hive]
+- Flutter SDK: 3.27.1
+- State Management: Provider
+- HTTP Client: http
+- Persistence: shared_preferences
 
 ## State Management Explanation
-[Write 2-3 sentences about your choice and data flow]
+I chose provider because as the app is small and can be easily done in provider , also I have a good hnads on experience with provider.All the data is managed by provider.
 ## Known Issues / Limitations
-[List anything incomplete or improvable]
+We can implement the clear all favourites buttons
 ## Screenshots (Optional)
-[Add if applicable]
+screenshot1.png screenshot2.png screenshot3.png
