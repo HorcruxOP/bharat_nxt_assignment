@@ -1,16 +1,31 @@
 # bharat_nxt_assignment
+markdown
+CopyEdit
+# Flutter Article App
+A Flutter app that fetches and displays a list of articles from a public
+API.
+## Features
+- List of articles
+- Search functionality
+- Detail view
+- Responsive UI
+## Setup Instructions
+1. Clone the repo:
+git clone <your-repo-link>
+cd flutter_article_app
+2. Install dependencies:
+flutter pub get
+3. Run the app:
+flutter run
+## Tech Stack
+- Flutter SDK: [Version]
+- State Management: [Provider/Riverpod/etc.]
+- HTTP Client: [http/dio]
+- Persistence: [shared_preferences/hive]
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## State Management Explanation
+[Write 2-3 sentences about your choice and data flow]
+## Known Issues / Limitations
+[List anything incomplete or improvable]
+## Screenshots (Optional)
+[Add if applicable]
