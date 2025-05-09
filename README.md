@@ -27,4 +27,9 @@ I chose provider because as the app is small and can be easily done in provider 
 ## Known Issues / Limitations
 We can implement the clear all favourites buttons
 ## Screenshots (Optional)
-![](screenshot1.png) ![](screenshot2.png) ![](screenshot3.png)
+<p float="left">
+  <img src="/screenshot1.png" width="100" />
+  <img src="/screenshot2.png" width="100" /> 
+  <img src="/screenshot3.png" width="100" />
+</p>
+
