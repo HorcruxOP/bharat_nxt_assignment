@@ -11,8 +11,7 @@ API.
 ## Setup Instructions
 1. Clone the repo:
 git clone https://github.com/HorcruxOP/bharat_nxt_assignment.git
-
-cd flutter_article_app
+cd bharat_nxt_assignment
 3. Install dependencies:
 flutter pub get
 4. Run the app:
