@@ -23,7 +23,7 @@ flutter run
 - Persistence: shared_preferences
 
 ## State Management Explanation
-I chose provider because as the app is small and can be easily done in provider , also I have a good hnads on experience with provider.All the data is managed by provider.
+I chose provider because as the app is small and can be easily done in provider , also I have a good hands on experience with provider.All the data is managed by provider.
 ## Known Issues / Limitations
 We can implement the clear all favourites buttons
 ## Screenshots (Optional)
