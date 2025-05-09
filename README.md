@@ -10,7 +10,7 @@ API.
 - Responsive UI
 ## Setup Instructions
 1. Clone the repo:
-git clone <your-repo-link>
+git clone https://github.com/HorcruxOP/bharat_nxt_assignment.git
 cd flutter_article_app
 2. Install dependencies:
 flutter pub get
