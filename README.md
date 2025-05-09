@@ -10,11 +10,12 @@ API.
 - Responsive UI
 ## Setup Instructions
 1. Clone the repo:
-git clone https://github.com/HorcruxOP/bharat_nxt_assignment.git \n
+git clone https://github.com/HorcruxOP/bharat_nxt_assignment.git
+
 cd flutter_article_app
-2. Install dependencies:
+3. Install dependencies:
 flutter pub get
-3. Run the app:
+4. Run the app:
 flutter run
 ## Tech Stack
 - Flutter SDK: 3.27.1
